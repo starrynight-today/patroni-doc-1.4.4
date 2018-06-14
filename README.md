@@ -31,7 +31,7 @@ Patroni is in active development and accepts contributions. See our Contributing
 
 ## 发展状况
 
-Patroni正在积极开发和接受贡献。有关更多细节，请参见下面我们的[贡献部分](./CONTRIBUTING.md)。
+Patroni正在积极开发和接受贡献。有关更多细节，请参见下面我们的[贡献部分](#CONTRIBUTING)。
 
 
 
@@ -89,7 +89,7 @@ Patroni.
 
 ## 技术要求/安装
 
-对mac操作系统的预先要求。
+在mac操作系统安装时的先决条件。
 
 要在Mac上安装需求，请运行以下命令：
 
